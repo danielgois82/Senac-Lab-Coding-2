@@ -11,3 +11,5 @@ O arquivo "lab_04_10_2024.ipynb" foi o conteúdo da aula do dia 04/10/2024.
 O arquivo "lab_18_10_2024.ipynb" foi o conteúdo da aula do dia 18/10/2024.
 
 O arquivo "lab_25_10_2024.ipynb" foi o conteúdo da aula do dia 25/10/2024.
+
+O arquivo "patinhos.py" e "elefantes.py" foram o conteúdo da aula do dia 01/11/2024.
